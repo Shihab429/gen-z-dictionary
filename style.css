@@ -62,3 +62,11 @@ h3{
         margin: 100px auto;
     }
 }
+@media (max-height: 640px){
+    #dictionary{
+        height: 420px;
+    }
+    #show{
+        height: 280px;
+    }
+}
