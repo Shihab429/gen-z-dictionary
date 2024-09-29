@@ -10,7 +10,7 @@ let inputtedWord = document.getElementById('wordInput');
 
 let searchWord = () => {
         if(!inputtedWord.value){
-            show.innerHTML = `<h2 style="color: red; opacity: 0.9; margin-top: 20px; text-align: center;">Enter a word</h2>`
+            show.innerHTML = `<h2 style="color: red; opacity: 0.9; margin-top: 20px; text-align: center;">Enter a word...</h2>`
         }
         else{
             let inputtedWordLow = inputtedWord.value.toLowerCase();
