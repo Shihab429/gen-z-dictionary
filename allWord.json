@@ -1,14 +1,354 @@
 [
+  {
+    "id": 1,
+    "word": "Yeet",
+    "eng_des": "To throw something forcefully.",
+    "ban_des": "ছুড়ে ফেলা",
+    "ban_example": "আমি বলটা ঘরের বাইরে Yeet করে দিলাম।",
+    "eng_example": "I just yeeted the ball outside."
+  },
+  {
+    "id": 2,
+    "word": "FOMO",
+    "eng_des": "Fear of missing out on fun events.",
+    "ban_des": "মজা মিস করার ভয়",
+    "ban_example": "পার্টি মিস করলেই আমার FOMO হয়।",
+    "eng_example": "I always get FOMO when I miss a party."
+  },
+  {
+    "id": 3,
+    "word": "Flex",
+    "eng_des": "To show off.",
+    "ban_des": "গর্ব করা",
+    "ban_example": "ও নতুন ফোন কিনে সবাইকে Flex করছে।",
+    "eng_example": "He's flexing his new phone to everyone."
+  },
+  {
+    "id": 4,
+    "word": "Lit",
+    "eng_des": "Amazing or exciting.",
+    "ban_des": "দুর্দান্ত",
+    "ban_example": "গত রাতের কনসার্টটা একদম Lit ছিল।",
+    "eng_example": "Last night’s concert was totally lit."
+  },
+  {
+    "id": 5,
+    "word": "Salty",
+    "eng_des": "Being upset or bitter.",
+    "ban_des": "বিরক্ত",
+    "ban_example": "ওকে হারিয়ে আমি একটু Salty।",
+    "eng_example": "I’m feeling a bit salty after losing to him."
+  },
+  {
+    "id": 6,
+    "word": "Ghosting",
+    "eng_des": "Suddenly cutting off all communication.",
+    "ban_des": "হঠাৎ যোগাযোগ বন্ধ করা",
+    "ban_example": "ও আমাকে হঠাৎ Ghost করেছে।",
+    "eng_example": "She ghosted me out of nowhere."
+  },
+  {
+    "id": 7,
+    "word": "Stan",
+    "eng_des": "To be a big fan.",
+    "ban_des": "বড় ভক্ত হওয়া",
+    "ban_example": "আমি টেইলর সুইফটের Stan।",
+    "eng_example": "I totally stan Taylor Swift."
+  },
+  {
+    "id": 8,
+    "word": "Simp",
+    "eng_des": "Showing excessive attention or affection.",
+    "ban_des": "অতিরিক্ত মনোযোগ দেখানো",
+    "ban_example": "ও সবসময় তার জন্য Simp করে।",
+    "eng_example": "He’s always simping for her."
+  },
+  {
+    "id": 9,
+    "word": "Low-key",
+    "eng_des": "Secretly or subtly.",
+    "ban_des": "গোপনে",
+    "ban_example": "আমি Low-key এই সিনেমাটা পছন্দ করি।",
+    "eng_example": "I low-key love this movie."
+  },
+  {
+    "id": 10,
+    "word": "High-key",
+    "eng_des": "Openly or obviously.",
+    "ban_des": "প্রকাশ্যে",
+    "ban_example": "আমি High-key আজকে বিরক্ত।",
+    "eng_example": "I’m high-key annoyed today."
+  },
+  {
+    "id": 11,
+    "word": "Vibe",
+    "eng_des": "A feeling or atmosphere.",
+    "ban_des": "অনুভূতি",
+    "ban_example": "এই ক্যাফের Vibe দারুণ।",
+    "eng_example": "The vibe of this café is awesome."
+  },
+  {
+    "id": 12,
+    "word": "No cap",
+    "eng_des": "No lie, being honest.",
+    "ban_des": "মিথ্যা নয়",
+    "ban_example": "আমি সত্যি বলছি, No cap।",
+    "eng_example": "I’m telling the truth, no cap."
+  },
+  {
+    "id": 13,
+    "word": "Slay",
+    "eng_des": "To do something exceptionally well.",
+    "ban_des": "চমৎকার কিছু করা",
+    "ban_example": "তুমি আজকে একদম Slay করেছো।",
+    "eng_example": "You totally slayed today."
+  },
+  {
+    "id": 14,
+    "word": "Bop",
+    "eng_des": "A good song.",
+    "ban_des": "দারুণ গান",
+    "ban_example": "এই গানটা একদম Bop।",
+    "eng_example": "This song is a bop."
+  },
+  {
+    "id": 15,
+    "word": "Tea",
+    "eng_des": "Gossip or hot news.",
+    "ban_des": "গসিপ",
+    "ban_example": "তুমি কি আজকের Tea শুনেছো?",
+    "eng_example": "Have you heard today’s tea?"
+  },
+  {
+    "id": 16,
+    "word": "Mood",
+    "eng_des": "Relatable feeling or emotion.",
+    "ban_des": "মনের অবস্থা",
+    "ban_example": "আজকে আমি একদম Mood এ আছি।",
+    "eng_example": "I’m in such a mood today."
+  },
+  {
+    "id": 17,
+    "word": "Suss",
+    "eng_des": "Suspicious.",
+    "ban_des": "সন্দেহজনক",
+    "ban_example": "ওর আচরণটা একটু Suss।",
+    "eng_example": "His behavior is kind of suss."
+  },
+  {
+    "id": 18,
+    "word": "Shook",
+    "eng_des": "Shocked or surprised.",
+    "ban_des": "বিস্মিত",
+    "ban_example": "খবরটা শুনে আমি একদম Shook।",
+    "eng_example": "I was so shook when I heard the news."
+  },
+  {
+    "id": 19,
+    "word": "Clout",
+    "eng_des": "Influence or fame.",
+    "ban_des": "প্রভাব",
+    "ban_example": "ওর সোশ্যাল মিডিয়ায় অনেক Clout আছে।",
+    "eng_example": "He has a lot of clout on social media."
+  },
+  {
+    "id": 20,
+    "word": "Vibing",
+    "eng_des": "Relaxing or enjoying.",
+    "ban_des": "আরাম করে থাকা",
+    "ban_example": "আমি শুধু Vibing করছি আজকে।",
+    "eng_example": "I’m just vibing today."
+  },
+  {
+    "id": 21,
+    "word": "Glow-up",
+    "eng_des": "A noticeable transformation or improvement.",
+    "ban_des": "উন্নতি",
+    "ban_example": "গত বছরের পর থেকে ওর দারুণ Glow-up হয়েছে।",
+    "eng_example": "She had an amazing glow-up since last year."
+  },
+  {
+    "id": 22,
+    "word": "Canceled",
+    "eng_des": "Rejected or boycotted.",
+    "ban_des": "বাতিল করা",
+    "ban_example": "তার কাজের জন্য সে Canceled হয়ে গেছে।",
+    "eng_example": "He’s been canceled for what he did."
+  },
+  {
+    "id": 23,
+    "word": "Spill the tea",
+    "eng_des": "To share gossip.",
+    "ban_des": "গসিপ শেয়ার করা",
+    "ban_example": "আমি সব শুনতে চাই, Spill the tea।",
+    "eng_example": "I want to hear everything, spill the tea."
+  },
+  {
+    "id": 24,
+    "word": "Bet",
+    "eng_des": "Okay or for sure.",
+    "ban_des": "নিশ্চিত",
+    "ban_example": "আমি সিনেমায় যাব, Bet।",
+    "eng_example": "I’m going to the movies, bet."
+  },
+  {
+    "id": 25,
+    "word": "Snack",
+    "eng_des": "Someone attractive.",
+    "ban_des": "আকর্ষণীয় কেউ",
+    "ban_example": "ও আজকে একদম Snack লাগছে।",
+    "eng_example": "She looks like a total snack today."
+  },
+  {
+    "id": 26,
+    "word": "Drip",
+    "eng_des": "Fashionable or stylish clothes.",
+    "ban_des": "স্টাইলিশ পোশাক",
+    "ban_example": "তার আজকের Drip একদম দারুণ।",
+    "eng_example": "His drip today is amazing."
+  },
+  {
+    "id": 27,
+    "word": "GOAT",
+    "eng_des": "Greatest of all time.",
+    "ban_des": "সর্বকালের সেরা",
+    "ban_example": "লিওনেল মেসি ফুটবলের GOAT।",
+    "eng_example": "Lionel Messi is the GOAT of football."
+  },
+  {
+    "id": 28,
+    "word": "Basic",
+    "eng_des": "Mainstream or unoriginal.",
+    "ban_des": "সাধারণ বা সাদামাটা",
+    "ban_example": "ওর স্টাইলটা একটু Basic।",
+    "eng_example": "Her style is kind of basic."
+  },
+  {
+    "id": 29,
+    "word": "Thirsty",
+    "eng_des": "Desperate for attention.",
+    "ban_des": "খুব আগ্রহী বা মরিয়া",
+    "ban_example": "ওর সোশ্যাল মিডিয়ায় সব পোস্ট Thirsty।",
+    "eng_example": "All his social media posts seem thirsty."
+  },
+  {
+    "id": 30,
+    "word": "Adulting",
+    "eng_des": "Acting like a responsible adult.",
+    "ban_des": "প্রাপ্তবয়স্কের মতো আচরণ করা",
+    "ban_example": "আজকে আমি Adulting করতে শিখছি।",
+    "eng_example": "Today, I’m learning to do adulting."
+  },
+  {
+    "id": 31,
+    "word": "Receipts",
+    "eng_des": "Proof or evidence.",
+    "ban_des": "প্রমাণ",
+    "ban_example": "তার কাছে সব Receipts আছে।",
+    "eng_example": "She has all the receipts."
+  },
+  {
+    "id": 32,
+    "word": "Boujee",
+    "eng_des": "Luxurious or fancy.",
+    "ban_des": "উচ্চবিত্ত",
+    "ban_example": "ও খুব Boujee রেস্তোরাঁতে খেতে পছন্দ করে।",
+    "eng_example": "She likes to eat at boujee restaurants."
+  },
+  {
+    "id": 33,
+    "word": "Cap",
+    "eng_des": "To lie.",
+    "ban_des": "মিথ্যা কথা বলা",
+    "ban_example": "তুমি বলছো কিন্তু এটা Cap।",
+    "eng_example": "You’re saying that, but it’s cap."
+  },
+  {
+    "id": 34,
+    "word": "Drag",
+    "eng_des": "To criticize or insult someone.",
+    "ban_des": "অপমান করা",
+    "ban_example": "সে আমাকে মিটিংয়ে Drag করেছে।",
+    "eng_example": "She dragged me in the meeting."
+  },
+  {
+    "id": 35,
+    "word": "Gucci",
+    "eng_des": "Great or good.",
+    "ban_des": "দুর্দান্ত বা ভালো",
+    "ban_example": "সবকিছু Gucci চলছে।",
+    "eng_example": "Everything’s going Gucci."
+  },
+  {
+    "id": 36,
+    "word": "Sus",
+    "eng_des": "Suspicious or questionable.",
+    "ban_des": "সন্দেহজনক",
+    "ban_example": "ওর কার্যকলাপ একদম Sus।",
+    "eng_example": "His behavior is really sus."
+  },
+  {
+    "id": 37,
+    "word": "Sis",
+    "eng_des": "A term of address for a close female friend.",
+    "ban_des": "বন্ধুকে সম্বোধন করার একটি শব্দ",
+    "ban_example": "তুমি কেমন আছো, Sis?",
+    "eng_example": "How are you, sis?"
+  },
+  {
+    "id": 38,
+    "word": "Thicc",
+    "eng_des": "Having a curvy figure.",
+    "ban_des": "সুগঠিত দেহের অধিকারী",
+    "ban_example": "তার ফিগার খুব Thicc।",
+    "eng_example": "She has a thicc figure."
+  },
+  {
+    "id": 39,
+    "word": "Woke",
+    "eng_des": "Being socially aware.",
+    "ban_des": "সচেতন বা জাগ্রত",
+    "ban_example": "ও খুব Woke এবং সব সামাজিক সমস্যার ব্যাপারে সচেতন।",
+    "eng_example": "She’s very woke and aware of social issues."
+  },
+  {
+    "id": 40,
+    "word": "Shady",
+    "eng_des": "Dishonest or questionable.",
+    "ban_des": "বিশ্বাসযোগ্য নয় এমন",
+    "ban_example": "তার কাজগুলো খুব Shady।",
+    "eng_example": "His actions are really shady."
+  },
+  {
+    "id": 41,
+    "word": "Adulting",
+    "eng_des": "Behaving like a responsible adult.",
+    "ban_des": "বড়দের মতো দায়িত্ব পালন করা",
+    "ban_example": "আজকে আমি অনেক Adulting করেছি।",
+    "eng_example": "I’ve done a lot of adulting today."
+  },
+  {
+    "id": 42,
+    "word": "Cancel culture",
+    "eng_des": "Boycotting someone due to controversy.",
+    "ban_des": "সমালোচনার কারণে বয়কট করা",
+    "ban_example": "সে Cancel Culture এর শিকার হয়েছে।",
+    "eng_example": "He’s been a victim of cancel culture."
+  },
+  {
+    "id": 43,
+    "word": "Slaps",
+    "eng_des": "Something amazing, especially music.",
+    "ban_des": "খুব ভালো",
+    "ban_example": "এই গানটা একদম Slaps।",
+    "eng_example": "This song slaps."
+  },
     {
-        "word": "flex",
-        "eng_des": "To fun with some one",
-        "ban_des": "মজা করা",
-        "ban_example": "আমার সাথে flex করবেননা।"
-    },
-    {
-        "word": "goat",
-        "eng_des": "World famous",
-        "ban_des": "সর্বকালের সেরা",
-        "ban_example": "মেসি একজন goat খেলোয়ার।"
+        "id": 44,
+        "word": "pov",
+        "eng_des": "point of view",
+        "ban_des": "",
+        "ban_example": "",
+        "eng_example": ""
     }
 ]
