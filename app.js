@@ -9,6 +9,9 @@ let show = document.getElementById('show');
 let inputtedWord = document.getElementById('wordInput');
 
 let searchWord = () => {
+    let suggestion = document.getElementById('suggestion');
+    suggestion.innerHTML = '';
+    
         if(!inputtedWord.value){
             show.innerHTML = `<h2 style="color: red; opacity: 0.9; margin-top: 20px; text-align: center;">Enter a word...</h2>`
         }
