@@ -32,7 +32,28 @@ let searchWord = () => {
 }
     document.getElementById('btn').addEventListener('click', searchWord )
 
+function suggestWords(){
+    let userInput = inputtedWord.value.toLowerCase();
+    let suggestionField = document.getElementById('suggestion');
 
+    suggestionField.innerHTML = '';
+
+    if(!userInput) return;
+
+    let relatedWords = alldata.filter(singleRelatedData => singleRelatedData.word.toLowerCase().includes(userInput));
+    
+    relatedWords.forEach(singleRelWord => {
+        let singleRelWordDiv = document.createElement('div');
+        singleRelWordDiv.textContent = singleRelWord.word;
+        singleRelWordDiv.onclick = () => fillInput(singleRelWord.word);
+        suggestionField.appendChild(singleRelWordDiv);
+
+        function fillInput(word){
+            inputtedWord.value = word;
+            suggestionField.innerHTML = '';
+        }
+    })
+}
 
 
 

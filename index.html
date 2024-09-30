@@ -11,8 +11,11 @@
     <meta content="">
     <div id="dictionary">
         <h1>Gen-z Dictionary</h1>
-        <input type="text" placeholder="Enter word...(e.g. flex)" id="wordInput">
+        <input type="text" placeholder="Enter word...(e.g. flex)" id="wordInput" onkeyup="suggestWords()">
         <button id="btn">Search</button>
+        <div id="suggestion">
+
+        </div>
         <div id="show">
             <h3 id="h3"></h3>
         </div>
