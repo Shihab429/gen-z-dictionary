@@ -350,5 +350,213 @@
         "ban_des": "",
         "ban_example": "",
         "eng_example": ""
+    },
+    {
+      "id": 45,
+      "word": "Gyatt",
+      "eng_des": "An internet slang term used to compliment someone with an attractive body, typically referring to a curvy figure.",
+      "ban_des": "ইন্টারনেট স্ল্যাং, সাধারণত সুগঠিত দেহের প্রশংসা করার জন্য ব্যবহৃত হয়।",
+      "ban_example": "ওকে দেখে বলতে হয়, Gyatt!",
+      "eng_example": "When I saw her, I had to say, Gyatt!"
+  },
+    {
+      "id": 46,
+      "word": "Bussin",
+      "eng_des": "Something that is really good, especially food.",
+      "ban_des": "খুবই ভালো, বিশেষত খাবারের ক্ষেত্রে।",
+      "ban_example": "এই পিজ্জাটা একদম Bussin।",
+      "eng_example": "This pizza is bussin."
+    },
+    {
+      "id": 47,
+      "word": "Big yikes",
+      "eng_des": "A bigger version of 'yikes,' used to express embarrassment or shock.",
+      "ban_des": "বেশি বিব্রত বা বিস্মিত হওয়া বোঝাতে ব্যবহৃত।",
+      "ban_example": "ওর উপস্থাপনাটা ছিল একদম Big yikes।",
+      "eng_example": "Her presentation was a big yikes."
+    },
+    {
+      "id": 48,
+      "word": "Ratio",
+      "eng_des": "Used to indicate that a reply got more likes than the original post, implying a loss.",
+      "ban_des": "মন্তব্যের লাইক মূল পোস্টের চেয়ে বেশি হওয়া বোঝায়।",
+      "ban_example": "তোমার পোস্টটা একদম Ratio হয়েছে।",
+      "eng_example": "Your post just got ratioed."
+    },
+    {
+      "id": 49,
+      "word": "Mid",
+      "eng_des": "Mediocre or average, not very good.",
+      "ban_des": "মাঝারি মানের বা খুব ভালো নয়।",
+      "ban_example": "মুভিটা ঠিক Mid ছিল, বেশি ভালো না।",
+      "eng_example": "The movie was just mid, nothing special."
+    },
+    {
+      "id": 50,
+      "word": "Catch these hands",
+      "eng_des": "A phrase used to indicate a willingness to fight.",
+      "ban_des": "মারামারিতে প্রস্তুতি বোঝাতে ব্যবহৃত হয়।",
+      "ban_example": "যদি বেশি কথা বলো, তবে Catch these hands।",
+      "eng_example": "If you keep talking, you're about to catch these hands."
+    },
+    {
+      "id": 51,
+      "word": "Drip check",
+      "eng_des": "Assessing someone's outfit to see if it’s stylish.",
+      "ban_des": "কারো পোশাক স্টাইলিশ কিনা তা যাচাই করা।",
+      "ban_example": "ওর Drip check করো, দারুণ স্টাইলিশ লাগছে।",
+      "eng_example": "Check his drip, he looks stylish!"
+    },
+    {
+      "id": 52,
+      "word": "Noob",
+      "eng_des": "A term used to describe someone inexperienced or new to something.",
+      "ban_des": "কোনো নতুন বা অনভিজ্ঞ ব্যক্তিকে বোঝাতে ব্যবহৃত।",
+      "ban_example": "তুমি গেমে নতুন, একদম Noob।",
+      "eng_example": "You're new to the game, such a noob."
+    },
+    {
+      "id": 53,
+      "word": "Sauce",
+      "eng_des": "Confidence, swagger, or style.",
+      "ban_des": "আত্মবিশ্বাস, আভিজাত্য বা স্টাইল।",
+      "ban_example": "ওর ফ্যাশন স্টাইলের Sauce একদম আলাদা।",
+      "eng_example": "His fashion sense has a unique sauce."
+    },
+    {
+      "id": 54,
+      "word": "Receipts",
+      "eng_des": "Proof or evidence, especially in arguments.",
+      "ban_des": "কোনো বিতর্কে প্রমাণ দেখানো বোঝায়।",
+      "ban_example": "ওর কাছে সব Receipts আছে, তাই বিতর্ক করতে পারবে না।",
+      "eng_example": "She has all the receipts, so you can’t argue."
+    },
+    {
+      "id": 55,
+      "word": "Finna",
+      "eng_des": "About to do something, short for 'fixing to.'",
+      "ban_des": "কিছু করার প্রস্তুতি বোঝাতে ব্যবহৃত।",
+      "ban_example": "আমি সিনেমা দেখতে Finna যাচ্ছি।",
+      "eng_example": "I’m finna go watch a movie."
+    },
+    {
+      "id": 56,
+      "word": "Glow up",
+      "eng_des": "A major physical or emotional transformation for the better.",
+      "ban_des": "শারীরিক বা মানসিক উল্লেখযোগ্য পরিবর্তন।",
+      "ban_example": "তুমি একদম Glow up করে গেছো, দেখতে সুন্দর লাগছে।",
+      "eng_example": "You've had a glow-up, you look amazing!"
+    },
+    {
+      "id": 57,
+      "word": "Clapback",
+      "eng_des": "A quick, sharp reply to criticism.",
+      "ban_des": "তীব্র প্রতিক্রিয়া বা জবাব।",
+      "ban_example": "সে আমার কথার চমৎকার Clapback দিয়েছে।",
+      "eng_example": "She gave a great clapback to my comment."
+    },
+    {
+      "id": 58,
+      "word": "Wylin",
+      "eng_des": "Acting irrational or out of control.",
+      "ban_des": "অযৌক্তিক বা অপ্রকৃতস্থ আচরণ করা।",
+      "ban_example": "ও আজকে একদম Wylin করছে, কন্ট্রোলের বাইরে।",
+      "eng_example": "He's wylin today, totally out of control."
+    },
+    {
+      "id": 59,
+      "word": "Thirst trap",
+      "eng_des": "A social media post meant to attract attention.",
+      "ban_des": "মনোযোগ আকর্ষণ করার জন্য পোস্ট করা ছবি।",
+      "ban_example": "তুমি এই ছবিটা থার্স্ট ট্র্যাপ হিসেবে পোস্ট করেছো?",
+      "eng_example": "Did you post that picture as a thirst trap?"
+    },
+    {
+      "id": 60,
+      "word": "Fire",
+      "eng_des": "Something amazing or great.",
+      "ban_des": "দারুণ বা অসাধারণ কিছু।",
+      "ban_example": "তোমার নতুন গানটা একদম Fire।",
+      "eng_example": "Your new song is fire."
+    },
+    {
+      "id": 61,
+      "word": "Deadass",
+      "eng_des": "Being completely serious or honest.",
+      "ban_des": "পুরোপুরি সিরিয়াস বা সৎ হওয়া বোঝায়।",
+      "ban_example": "আমি Deadass, এটা সত্যি।",
+      "eng_example": "I’m deadass, this is true."
+    },
+    {
+      "id": 62,
+      "word": "Hits different",
+      "eng_des": "Something that feels unique or special.",
+      "ban_des": "ভিন্ন বা বিশেষ কিছু।",
+      "ban_example": "এই গানটা পুরোনো হলেও একদম Hits different।",
+      "eng_example": "This song hits different even though it's old."
+    },
+    {
+      "id": 63,
+      "word": "Rizz",
+      "eng_des": "Charisma or charm, often related to romantic interest.",
+      "ban_des": "আকর্ষণীয় ব্যক্তিত্ব বা রোমান্টিক আকর্ষণ।",
+      "ban_example": "তার কাছে অনেক Rizz আছে, তাই সবাই তাকে পছন্দ করে।",
+      "eng_example": "He’s got so much rizz, everyone likes him."
+    },
+    {
+      "id": 64,
+      "word": "Main character energy",
+      "eng_des": "Confidence and the feeling of being the center of attention.",
+      "ban_des": "আত্মবিশ্বাস এবং মনোযোগের কেন্দ্র হওয়া বোঝায়।",
+      "ban_example": "আজকে আমি একদম Main character energy অনুভব করছি।",
+      "eng_example": "I’m feeling major main character energy today."
+    },
+    {
+      "id": 65,
+      "word": "Press F",
+      "eng_des": "To show respect or condolences, often humorously.",
+      "ban_des": "সম্মান বা শোক প্রকাশ করা বোঝাতে ব্যবহৃত।",
+      "ban_example": "ওর ল্যাপটপটা নষ্ট হয়ে গেছে, Press F।",
+      "eng_example": "His laptop died, press F."
+    },
+    {
+      "id": 66,
+      "word": "In my feels",
+      "eng_des": "Being deep in emotions.",
+      "ban_des": "গভীরভাবে আবেগে আচ্ছন্ন হওয়া।",
+      "ban_example": "গানটা শুনে আমি একদম In my feels চলে গেছি।",
+      "eng_example": "That song put me in my feels."
+    },
+    {
+      "id": 67,
+      "word": "Rent-free",
+      "eng_des": "Something or someone you can’t stop thinking about.",
+      "ban_des": "কিছু বা কাউকে নিয়ে সব সময় ভাবা।",
+      "ban_example": "ও আমার মাথায় একদম Rent-free বাস করছে।",
+      "eng_example": "She’s living rent-free in my head."
+    },
+    {
+      "id": 68,
+      "word": "Slay",
+      "eng_des": "To succeed in something or look amazing.",
+      "ban_des": "কোনো কাজে সফল হওয়া বা অসাধারণ দেখানো।",
+      "ban_example": "ওর পারফরম্যান্সটা একদম Slay করেছে।",
+      "eng_example": "She absolutely slayed her performance."
+    },
+    {
+      "id": 69,
+      "word": "Ship",
+      "eng_des": "To support or hope for a romantic relationship between two people.",
+      "ban_des": "দুই ব্যক্তির মধ্যে সম্পর্ক চাওয়া বা সমর্থন করা।",
+      "ban_example": "আমি ওদের দুজনকে একদম Ship করি।",
+      "eng_example": "I totally ship them together."
+    },
+    {
+      "id": 70,
+      "word": "Spill the tea",
+      "eng_des": "To share gossip or news.",
+      "ban_des": "গসিপ বা নতুন খবর শেয়ার করা।",
+      "ban_example": "আমাকে পুরো Tea spill করো, কী হয়েছে বলো।",
+      "eng_example": "Spill the tea, tell me what happened."
     }
 ]
