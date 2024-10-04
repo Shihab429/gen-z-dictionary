@@ -441,11 +441,11 @@
     },
     {
       "id": 56,
-      "word": "Glow up",
-      "eng_des": "A major physical or emotional transformation for the better.",
-      "ban_des": "শারীরিক বা মানসিক উল্লেখযোগ্য পরিবর্তন।",
-      "ban_example": "তুমি একদম Glow up করে গেছো, দেখতে সুন্দর লাগছে।",
-      "eng_example": "You've had a glow-up, you look amazing!"
+      "word": "LOL",
+      "eng_des": "Laughing out loud; used to indicate something is funny.",
+      "ban_des": "জোরে হাসা; মজার কিছু বোঝাতে ব্যবহৃত।",
+      "ban_example": "ওর কথায় আমি একদম LOL করে দিলাম।",
+      "eng_example": "I literally LOL'd at his joke."
     },
     {
       "id": 57,
@@ -726,15 +726,8 @@
         "ban_des": "হতাশা বা ব্যর্থতা বোঝাতে ব্যবহৃত।",
         "ban_example": "ওর পরীক্ষার রেজাল্ট দেখে শুধু বলতে পারি, Womp womp।",
         "eng_example": "After seeing his test results, all I could say was, womp womp."
-      },
-      {
-        "id": 92,
-        "word": "LOL",
-        "eng_des": "Laughing out loud; used to indicate something is funny.",
-        "ban_des": "জোরে হাসা; মজার কিছু বোঝাতে ব্যবহৃত।",
-        "ban_example": "ওর কথায় আমি একদম LOL করে দিলাম।",
-        "eng_example": "I literally LOL'd at his joke."
       }
+      
       
     
 ]
