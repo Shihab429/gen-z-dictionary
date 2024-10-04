@@ -558,5 +558,183 @@
       "ban_des": "গসিপ বা নতুন খবর শেয়ার করা।",
       "ban_example": "আমাকে পুরো Tea spill করো, কী হয়েছে বলো।",
       "eng_example": "Spill the tea, tell me what happened."
-    }
+    },
+      {
+        "id": 71,
+        "word": "Faff",
+        "eng_des": "Wasting time or doing something inefficiently.",
+        "ban_des": "সময় নষ্ট করা বা অদক্ষভাবে কিছু করা।",
+        "ban_example": "পুরো দিন শুধু Faff করে কাটিয়েছি।",
+        "eng_example": "I spent the whole day faffing around."
+      },
+      {
+        "id": 72,
+        "word": "Flying high",
+        "eng_des": "Feeling extremely happy or successful.",
+        "ban_des": "অত্যন্ত খুশি বা সফল হওয়ার অনুভূতি।",
+        "ban_example": "ও নতুন চাকরির পর থেকেই Flying high।",
+        "eng_example": "He's been flying high since he got his new job."
+      },
+      {
+        "id": 73,
+        "word": "Cushy",
+        "eng_des": "Comfortable, easy, or undemanding.",
+        "ban_des": "আরামদায়ক বা সহজ কিছু।",
+        "ban_example": "ওর নতুন চাকরিটা বেশ Cushy।",
+        "eng_example": "His new job is really cushy."
+      },
+      {
+        "id": 74,
+        "word": "Aura gain",
+        "eng_des": "Positive energy or reputation increasing.",
+        "ban_des": "ইতিবাচক শক্তি বা সুনাম বৃদ্ধি।",
+        "ban_example": "ওর সাহায্য করা দেখে Aura gain হয়েছে।",
+        "eng_example": "Helping others gave him an aura gain."
+      },
+      {
+        "id": 75,
+        "word": "Aura lose",
+        "eng_des": "Losing positive energy or reputation.",
+        "ban_des": "ইতিবাচক শক্তি বা সুনাম হারানো।",
+        "ban_example": "ওর খারাপ ব্যবহার Aura lose করেছে।",
+        "eng_example": "His rude behavior caused an aura lose."
+      },
+      {
+        "id": 76,
+        "word": "Pookie",
+        "eng_des": "A cute or affectionate nickname for a loved one.",
+        "ban_des": "প্রিয়জনের জন্য মিষ্টি বা ভালোবাসাময় ডাকনাম।",
+        "ban_example": "তুমি আমার Pookie।",
+        "eng_example": "You're my little pookie."
+      },
+      {
+        "id": 77,
+        "word": "Skibidi",
+        "eng_des": "A fun, catchy dance or meme trend.",
+        "ban_des": "মজাদার এবং জনপ্রিয় নাচ বা মেম ট্রেন্ড।",
+        "ban_example": "ওরা সবাই Skibidi নাচে মেতে উঠেছে।",
+        "eng_example": "They're all doing the Skibidi dance."
+      },
+      {
+        "id": 78,
+        "word": "Red flag",
+        "eng_des": "A warning sign of potential problems, especially in relationships.",
+        "ban_des": "সম্ভাব্য সমস্যার ইঙ্গিত, বিশেষত সম্পর্কের ক্ষেত্রে।",
+        "ban_example": "ওর ব্যবহারটা ছিল একটা বড় Red flag।",
+        "eng_example": "His behavior was a major red flag."
+      },
+      {
+        "id": 79,
+        "word": "Iykyk",
+        "eng_des": "If You Know, You Know. Used when something is understood by a specific group.",
+        "ban_des": "যারা জানে, তারা জানে। একটি নির্দিষ্ট গোষ্ঠীর জন্য বোঝায়।",
+        "ban_example": "এই মেমটা Iykyk ধরনের, সবাই বুঝবে না।",
+        "eng_example": "This meme is iykyk, not everyone will get it."
+      },
+      {
+        "id": 80,
+        "word": "Cook",
+        "eng_des": "To perform extremely well, especially in sports or games.",
+        "ban_des": "খুব ভালো পারফরম্যান্স করা, বিশেষত খেলা বা গেমসে।",
+        "ban_example": "আজকে ও মাঠে একদম Cook করল।",
+        "eng_example": "He was cooking on the field today."
+      },
+      {
+        "id": 81,
+        "word": "Bruh",
+        "eng_des": "An exclamation of disbelief or frustration.",
+        "ban_des": "অবিশ্বাস বা বিরক্তির বহিঃপ্রকাশ।",
+        "ban_example": "ওকে দেখে আমার একটাই কথা আসে - Bruh!",
+        "eng_example": "All I could say was, bruh!"
+      },
+      {
+        "id": 82,
+        "word": "Glow down",
+        "eng_des": "A negative transformation in appearance or vibe.",
+        "ban_des": "নেতিবাচক পরিবর্তন, বিশেষ করে চেহারা বা ভাবনায়।",
+        "ban_example": "ওর পরিবর্তনটা একদম Glow down ছিল।",
+        "eng_example": "Her transformation was a total glow down."
+      },
+      {
+        "id": 83,
+        "word": "Ok boomer",
+        "eng_des": "A dismissive phrase used to mock outdated opinions, especially of older generations.",
+        "ban_des": "পুরোনো মতামত নিয়ে ঠাট্টা করার জন্য ব্যবহৃত।",
+        "ban_example": "যখন ও পুরানো কথাগুলো বলছিল, আমি শুধু বললাম Ok boomer।",
+        "eng_example": "When he started talking about old ideas, I just said 'Ok boomer.'"
+      },
+      {
+        "id": 84,
+        "word": "Aura infinite",
+        "eng_des": "Limitless positive energy or confidence.",
+        "ban_des": "অসীম ইতিবাচক শক্তি বা আত্মবিশ্বাস।",
+        "ban_example": "তার Aura infinite, সবসময় আত্মবিশ্বাসী।",
+        "eng_example": "Her aura is infinite; she's always confident."
+      },
+      {
+        "id": 85,
+        "word": "Cringe",
+        "eng_des": "Something awkward or embarrassing.",
+        "ban_des": "অস্বস্তিকর বা বিব্রতকর কিছু।",
+        "ban_example": "ওর ডায়লগটা ছিল একদম Cringe।",
+        "eng_example": "His dialogue was super cringe."
+      },
+      {
+        "id": 86,
+        "word": "Sigma",
+        "eng_des": "Someone who is independent and successful without needing social approval.",
+        "ban_des": "যে সামাজিক অনুমোদন ছাড়াই সফল এবং স্বাধীন।",
+        "ban_example": "ও একদম Sigma ব্যক্তিত্বের অধিকারী।",
+        "eng_example": "He's got that sigma personality."
+      },
+      {
+        "id": 87,
+        "word": "Ohio",
+        "eng_des": "A meme representing something weird or bizarre.",
+        "ban_des": "অদ্ভুত বা অস্বাভাবিক কিছু বোঝাতে ব্যবহৃত।",
+        "ban_example": "এই ভিডিওটা একদম Ohio ধরনের।",
+        "eng_example": "This video is straight out of Ohio."
+      },
+      {
+        "id": 88,
+        "word": "Aesthetic",
+        "eng_des": "A pleasing or artistic appearance or style.",
+        "ban_des": "আকর্ষণীয় বা শিল্পসম্মত চেহারা বা স্টাইল।",
+        "ban_example": "তোমার ঘরটা খুবই Aesthetic।",
+        "eng_example": "Your room is so aesthetic."
+      },
+      {
+        "id": 89,
+        "word": "Chad",
+        "eng_des": "A confident, often stereotypical male who is popular and attractive.",
+        "ban_des": "আত্মবিশ্বাসী, জনপ্রিয় এবং আকর্ষণীয় পুরুষ।",
+        "ban_example": "সে পুরোপুরি এক Chad, সবাই তাকে পছন্দ করে।",
+        "eng_example": "He's a total Chad, everyone likes him."
+      },
+      {
+        "id": 90,
+        "word": "Oyo",
+        "eng_des": "A casual greeting or call for attention.",
+        "ban_des": "অনানুষ্ঠানিক অভিবাদন বা মনোযোগ আকর্ষণের ডাক।",
+        "ban_example": "ওকে দেখে আমি বললাম, 'Oyo!'",
+        "eng_example": "When I saw him, I just said, 'Oyo!'"
+      },
+      {
+        "id": 91,
+        "word": "Womp womp",
+        "eng_des": "Used to express disappointment or failure.",
+        "ban_des": "হতাশা বা ব্যর্থতা বোঝাতে ব্যবহৃত।",
+        "ban_example": "ওর পরীক্ষার রেজাল্ট দেখে শুধু বলতে পারি, Womp womp।",
+        "eng_example": "After seeing his test results, all I could say was, womp womp."
+      },
+      {
+        "id": 92,
+        "word": "LOL",
+        "eng_des": "Laughing out loud; used to indicate something is funny.",
+        "ban_des": "জোরে হাসা; মজার কিছু বোঝাতে ব্যবহৃত।",
+        "ban_example": "ওর কথায় আমি একদম LOL করে দিলাম।",
+        "eng_example": "I literally LOL'd at his joke."
+      }
+      
+    
 ]
