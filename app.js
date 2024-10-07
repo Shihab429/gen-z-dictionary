@@ -9,6 +9,10 @@ let show = document.getElementById('show');
 let inputtedWord = document.getElementById('wordInput');
 let suggestion = document.getElementById('suggestion');
 
+inputtedWord.addEventListener('search', () => {
+    
+        suggestion.innerHTML = "";
+})
 
 let searchWord = () => {
         if(!inputtedWord.value){
