@@ -7,18 +7,17 @@ fetch('allWord.json')
 var alldata;
 let show = document.getElementById('show');
 let inputtedWord = document.getElementById('wordInput');
+let suggestion = document.getElementById('suggestion');
+
 
 let searchWord = () => {
-    let suggestion = document.getElementById('suggestion');
-    suggestion.innerHTML = '';
-    
         if(!inputtedWord.value){
             show.innerHTML = `<h2 style="color: red; opacity: 0.9; margin-top: 20px; text-align: center;">Enter a word...</h2>`
         }
         else{
             let inputtedWordLow = inputtedWord.value.toLowerCase();
             let foundWord = alldata.find( (eachWord) => {
-               return eachWord.word.toLowerCase() === inputtedWordLow;
+                return eachWord.word.toLowerCase() === inputtedWordLow;
             })
             if(!foundWord){
                 show.innerHTML = `<h2 style="text-align: center;"> No Word Found </h2>`
@@ -26,10 +25,10 @@ let searchWord = () => {
             else{
                 show.innerHTML = `বাংলা অর্থ: <br> <h3> ${foundWord.ban_des} </h3> <br> English meaning: <br> <h3>${foundWord.eng_des} </h3> <br> উদাহরণ: <h3>${foundWord.ban_example} </h3> <br> Example: <h3>${foundWord.eng_example} </h3>`
                 }
-
+                
             }
         
-     
+        
     
 
 }
@@ -57,7 +56,6 @@ function suggestWords(){
         }
     })
 }
-
 
 
 
