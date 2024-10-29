@@ -8,6 +8,7 @@ var alldata;
 let show = document.getElementById('show');
 let inputtedWord = document.getElementById('wordInput');
 let suggestion = document.getElementById('suggestion');
+let searchBtn = document.getElementById('btn');
 
 inputtedWord.addEventListener('search', () => {
     
@@ -57,6 +58,7 @@ function suggestWords(){
         function fillInput(word){
             inputtedWord.value = word;
             suggestionField.innerHTML = '';
+            searchBtn.click();
         }
     })
 }
